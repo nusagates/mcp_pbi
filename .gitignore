@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+env_backup.txt
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS related files
+.DS_Store
+Thumbs.db
+
+# Temp files
+tmp/
+dist/
+bin/
